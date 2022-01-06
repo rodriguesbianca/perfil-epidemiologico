@@ -22,7 +22,7 @@ Traçar o perfil epidemiológico de dependência nicotínica dos pacientes atend
 - Qual a relação do perfil epidemiológico da população abordada com o seu grau de dependência à nicotina?
 - Quais as variáveis de exposição que se configurariam como possíveis fatores de risco para a dependência nicotínica na população atendida?
 
-Para que os objetivos possam atendidos, seram realizadas análises univariadas e bivariadas.
+Para que os objetivos possam ser atendidos, serão realizadas análises univariadas e bivariadas.
 
 #### Fases do estudo 
 - Limpeza dos dados;
