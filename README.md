@@ -30,5 +30,5 @@ Para que os objetivos possam ser atendidos, serão realizadas análises univaria
 - Análise Inferencial;
 - Visualização. 
 
-A análise completa está disponível [aqui]()
+A análise completa está disponível [aqui](https://conteudo--rodriguesbianca.netlify.app/blog/lanest-tabaco/lanest-tabagismo/)
 
